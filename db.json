@@ -1,0 +1,1443 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "name": "Organic Cotton T-Shirt",
+      "sku": "OCT-003",
+      "description": "Comfortable 100% organic cotton t-shirt in multiple colors",
+      "price": 29.99,
+      "costPrice": 12,
+      "categoryId": 2,
+      "stock": 320,
+      "lowStockThreshold": 50,
+      "brand": "EcoWear",
+      "rating": 4.3,
+      "reviewCount": 189,
+      "tags": [
+        "Clothing",
+        "Organic",
+        "Casual",
+        "Sustainable"
+      ],
+      "specifications": {
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "material": "100% Organic Cotton",
+        "care": "Machine washable"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=400"
+      ],
+      "status": "Active",
+      "featured": false,
+      "createdAt": "2024-03-10",
+      "updatedAt": "2024-10-18"
+    },
+    {
+      "id": "4",
+      "name": "Leather Laptop Bag",
+      "sku": "LLB-004",
+      "description": "Professional leather laptop bag with multiple compartments",
+      "price": 89.99,
+      "costPrice": 40,
+      "categoryId": 2,
+      "stock": 67,
+      "lowStockThreshold": 10,
+      "brand": "UrbanCarry",
+      "rating": 4.6,
+      "reviewCount": 312,
+      "tags": [
+        "Accessories",
+        "Leather",
+        "Professional",
+        "Laptop"
+      ],
+      "specifications": {
+        "color": "Brown",
+        "dimensions": "40x30x10cm",
+        "material": "Genuine Leather",
+        "laptop": "Up to 15 inches"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+        "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=400"
+      ],
+      "status": "Active",
+      "featured": true,
+      "createdAt": "2024-04-05",
+      "updatedAt": "2024-10-25"
+    },
+    {
+      "id": "5",
+      "name": "Ceramic Coffee Mug Set",
+      "sku": "CCM-005",
+      "description": "Set of 4 elegant ceramic coffee mugs with gift box",
+      "price": 39.99,
+      "costPrice": 15,
+      "categoryId": 3,
+      "stock": 210,
+      "lowStockThreshold": 30,
+      "brand": "HomeEssence",
+      "rating": 4.4,
+      "reviewCount": 156,
+      "tags": [
+        "Home",
+        "Kitchen",
+        "Ceramic",
+        "Gift"
+      ],
+      "specifications": {
+        "capacity": "350ml each",
+        "material": "Ceramic",
+        "dishwasher": "Yes",
+        "set": "4 pieces"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=400",
+        "https://images.unsplash.com/photo-1580913428023-15cd14b74033?w=400"
+      ],
+      "status": "Active",
+      "featured": false,
+      "createdAt": "2024-05-12",
+      "updatedAt": "2024-10-15"
+    },
+    {
+      "id": "6",
+      "name": "Yoga Mat Premium",
+      "sku": "YMP-006",
+      "description": "Extra thick non-slip yoga mat with carrying strap",
+      "price": 49.99,
+      "costPrice": 20,
+      "categoryId": 4,
+      "stock": 156,
+      "lowStockThreshold": 25,
+      "brand": "ZenFit",
+      "rating": 4.8,
+      "reviewCount": 523,
+      "tags": [
+        "Sports",
+        "Yoga",
+        "Fitness",
+        "Premium"
+      ],
+      "specifications": {
+        "thickness": "8mm",
+        "dimensions": "183x61cm",
+        "material": "TPE",
+        "weight": "1.2kg"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400",
+        "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=400"
+      ],
+      "status": "Active",
+      "featured": true,
+      "createdAt": "2024-06-08",
+      "updatedAt": "2024-10-21"
+    },
+    {
+      "id": "7",
+      "name": "Stainless Steel Water Bottle",
+      "sku": "SSW-007",
+      "description": "Insulated water bottle keeps drinks cold for 24h, hot for 12h",
+      "price": 34.99,
+      "costPrice": 14,
+      "categoryId": 4,
+      "stock": 298,
+      "lowStockThreshold": 40,
+      "brand": "HydroLife",
+      "rating": 4.5,
+      "reviewCount": 678,
+      "tags": [
+        "Sports",
+        "Bottle",
+        "Insulated",
+        "Eco-Friendly"
+      ],
+      "specifications": {
+        "capacity": "750ml",
+        "material": "Stainless Steel",
+        "insulation": "Double-walled",
+        "colors": [
+          "Black",
+          "Blue",
+          "Silver",
+          "Pink"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400",
+        "https://images.unsplash.com/photo-1609840114035-3c981c83db64?w=400"
+      ],
+      "status": "Active",
+      "featured": false,
+      "createdAt": "2024-07-14",
+      "updatedAt": "2024-10-19"
+    },
+    {
+      "id": "8",
+      "name": "LED Desk Lamp",
+      "sku": "LDL-008",
+      "description": "Adjustable LED desk lamp with USB charging port",
+      "price": 45.99,
+      "costPrice": 22,
+      "categoryId": 3,
+      "stock": 134,
+      "lowStockThreshold": 20,
+      "brand": "BrightSpace",
+      "rating": 4.2,
+      "reviewCount": 267,
+      "tags": [
+        "Home",
+        "Lighting",
+        "Office",
+        "USB"
+      ],
+      "specifications": {
+        "power": "12W",
+        "brightness": "Adjustable 3 levels",
+        "usb": "1 charging port",
+        "arm": "Flexible"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400",
+        "https://images.unsplash.com/photo-1565843714144-d5a3f4e1b9d3?w=400"
+      ],
+      "status": "Active",
+      "featured": false,
+      "createdAt": "2024-08-20",
+      "updatedAt": "2024-10-17"
+    },
+    {
+      "id": "9",
+      "name": "Wireless Gaming Mouse",
+      "sku": "WGM-009",
+      "description": "Ergonomic wireless gaming mouse with RGB lighting",
+      "price": 69.99,
+      "costPrice": 32,
+      "categoryId": 1,
+      "stock": 88,
+      "lowStockThreshold": 15,
+      "brand": "GamePro",
+      "rating": 4.7,
+      "reviewCount": 892,
+      "tags": [
+        "Electronics",
+        "Gaming",
+        "Wireless",
+        "RGB"
+      ],
+      "specifications": {
+        "dpi": "Up to 16000",
+        "battery": "70 hours",
+        "buttons": "8 programmable",
+        "rgb": "16.8M colors"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400",
+        "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=400"
+      ],
+      "status": "Active",
+      "featured": true,
+      "createdAt": "2024-09-05",
+      "updatedAt": "2024-10-23"
+    },
+    {
+      "id": "10",
+      "name": "Bamboo Cutting Board Set",
+      "sku": "BCS-010",
+      "description": "Set of 3 eco-friendly bamboo cutting boards in different sizes",
+      "price": 42.99,
+      "costPrice": 18,
+      "categoryId": 3,
+      "stock": 187,
+      "lowStockThreshold": 25,
+      "brand": "EcoKitchen",
+      "rating": 4.6,
+      "reviewCount": 345,
+      "tags": [
+        "Home",
+        "Kitchen",
+        "Bamboo",
+        "Eco-Friendly"
+      ],
+      "specifications": {
+        "material": "100% Bamboo",
+        "sizes": "Small, Medium, Large",
+        "care": "Hand wash only",
+        "set": "3 pieces"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1593255457885-fd1cd73bb126?w=400",
+        "https://images.unsplash.com/photo-1620706857370-e1b9770e8bb1?w=400"
+      ],
+      "status": "Active",
+      "featured": false,
+      "createdAt": "2024-09-18",
+      "updatedAt": "2024-10-16"
+    },
+    {
+      "id": "1761985654069",
+      "name": "pliers",
+      "sku": "PL-001",
+      "price": 22,
+      "costPrice": 12,
+      "stock": 848,
+      "categoryId": "1761983947415",
+      "brand": "Taparia",
+      "description": "to tighten or loosen bolts",
+      "rating": 0,
+      "reviewCount": 0,
+      "tags": [],
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+      ],
+      "specifications": {},
+      "featured": false,
+      "lowStockThreshold": 20,
+      "createdAt": "2025-11-01",
+      "updatedAt": "2025-11-01"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@email.com",
+      "phone": "+1-555-0101",
+      "dateOfBirth": "1988-05-15",
+      "gender": "Male",
+      "status": "Active",
+      "membershipTier": "Gold",
+      "joinDate": "2023-01-15",
+      "totalOrders": 24,
+      "totalSpent": 3456.78,
+      "averageOrderValue": 144.03,
+      "lastOrderDate": "2024-10-20",
+      "shippingAddress": {
+        "street": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10001",
+        "country": "USA"
+      },
+      "billingAddress": {
+        "street": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10001",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": true,
+        "smsNotifications": true,
+        "emailNotifications": true
+      },
+      "tags": [
+        "VIP",
+        "Frequent Buyer"
+      ],
+      "notes": "Prefers express shipping",
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": "2",
+      "firstName": "Sarah",
+      "lastName": "Johnson",
+      "email": "sarah.j@email.com",
+      "phone": "+1-555-0102",
+      "dateOfBirth": "1992-08-22",
+      "gender": "Female",
+      "status": "Active",
+      "membershipTier": "Silver",
+      "joinDate": "2023-06-10",
+      "totalOrders": 15,
+      "totalSpent": 1876.45,
+      "averageOrderValue": 125.1,
+      "lastOrderDate": "2024-10-18",
+      "shippingAddress": {
+        "street": "456 Oak Avenue",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zipCode": "90001",
+        "country": "USA"
+      },
+      "billingAddress": {
+        "street": "456 Oak Avenue",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zipCode": "90001",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": true,
+        "smsNotifications": false,
+        "emailNotifications": true
+      },
+      "tags": [
+        "Regular Customer"
+      ],
+      "notes": "Allergic to certain materials",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "3",
+      "firstName": "Michael",
+      "lastName": "Chen",
+      "email": "m.chen@email.com",
+      "phone": "+1-555-0103",
+      "dateOfBirth": "1985-12-03",
+      "gender": "Male",
+      "status": "Active",
+      "membershipTier": "Platinum",
+      "joinDate": "2022-03-20",
+      "totalOrders": 48,
+      "totalSpent": 8923.12,
+      "averageOrderValue": 185.9,
+      "lastOrderDate": "2024-10-25",
+      "shippingAddress": {
+        "street": "789 Pine Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zipCode": "60601",
+        "country": "USA"
+      },
+      "billingAddress": {
+        "street": "789 Pine Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zipCode": "60601",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": true,
+        "smsNotifications": true,
+        "emailNotifications": true
+      },
+      "tags": [
+        "VIP",
+        "Tech Enthusiast",
+        "Early Adopter"
+      ],
+      "notes": "Premium customer - priority handling",
+      "avatar": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "4",
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "email": "emily.davis@email.com",
+      "phone": "+1-555-0104",
+      "dateOfBirth": "1995-03-17",
+      "gender": "Female",
+      "status": "Active",
+      "membershipTier": "Bronze",
+      "joinDate": "2024-01-05",
+      "totalOrders": 6,
+      "totalSpent": 423.89,
+      "averageOrderValue": 70.65,
+      "lastOrderDate": "2024-10-15",
+      "shippingAddress": {
+        "street": "321 Elm Road",
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": "73301",
+        "country": "USA"
+      },
+      "billingAddress": {
+        "street": "321 Elm Road",
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": "73301",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": false,
+        "smsNotifications": false,
+        "emailNotifications": true
+      },
+      "tags": [
+        "New Customer"
+      ],
+      "notes": "",
+      "avatar": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "id": "5",
+      "firstName": "Robert",
+      "lastName": "Martinez",
+      "email": "rob.martinez@email.com",
+      "phone": "+1-555-0105",
+      "dateOfBirth": "1990-07-28",
+      "gender": "Male",
+      "status": "Active",
+      "membershipTier": "Gold",
+      "joinDate": "2022-11-12",
+      "totalOrders": 32,
+      "totalSpent": 5234.67,
+      "averageOrderValue": 163.58,
+      "lastOrderDate": "2024-10-22",
+      "shippingAddress": {
+        "street": "654 Maple Drive",
+        "city": "Seattle",
+        "state": "WA",
+        "zipCode": "98101",
+        "country": "USA"
+      },
+      "billingAddress": {
+        "street": "654 Maple Drive",
+        "city": "Seattle",
+        "state": "WA",
+        "zipCode": "98101",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": true,
+        "smsNotifications": true,
+        "emailNotifications": true
+      },
+      "tags": [
+        "Fitness Enthusiast",
+        "Frequent Buyer"
+      ],
+      "notes": "Interested in sports equipment",
+      "avatar": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": "6",
+      "firstName": "Jennifer",
+      "lastName": "Wilson",
+      "email": "j.wilson@email.com",
+      "phone": "+1-555-0106",
+      "dateOfBirth": "1987-11-09",
+      "gender": "Female",
+      "status": "Active",
+      "membershipTier": "Silver",
+      "joinDate": "2023-08-30",
+      "totalOrders": 18,
+      "totalSpent": 2145.9,
+      "averageOrderValue": 119.22,
+      "lastOrderDate": "2024-10-19",
+      "shippingAddress": {
+        "street": "987 Cedar Lane",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02101",
+        "country": "USA"
+      },
+      "billingAddress": {
+        "street": "987 Cedar Lane",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02101",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": true,
+        "smsNotifications": false,
+        "emailNotifications": true
+      },
+      "tags": [
+        "Regular Customer",
+        "Home Decor"
+      ],
+      "notes": "Prefers eco-friendly products",
+      "avatar": "https://i.pravatar.cc/150?img=10"
+    },
+    {
+      "id": "7",
+      "firstName": "David",
+      "lastName": "Anderson",
+      "email": "d.anderson@email.com",
+      "phone": "+1-555-0107",
+      "dateOfBirth": "1983-04-14",
+      "gender": "Male",
+      "status": "Inactive",
+      "membershipTier": "Bronze",
+      "joinDate": "2023-02-18",
+      "totalOrders": 3,
+      "totalSpent": 187.45,
+      "averageOrderValue": 62.48,
+      "lastOrderDate": "2023-12-10",
+      "shippingAddress": {
+        "street": "147 Birch Street",
+        "city": "Miami",
+        "state": "FL",
+        "zipCode": "33101",
+        "country": "USA"
+      },
+      "billingAddress": {
+        "street": "147 Birch Street",
+        "city": "Miami",
+        "state": "FL",
+        "zipCode": "33101",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": false,
+        "smsNotifications": false,
+        "emailNotifications": false
+      },
+      "tags": [],
+      "notes": "Inactive for 6+ months",
+      "avatar": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": "8",
+      "firstName": "Amanda",
+      "lastName": "Taylor",
+      "email": "amanda.t@email.com",
+      "phone": "+1-555-0108",
+      "dateOfBirth": "1993-09-25",
+      "gender": "Female",
+      "status": "Active",
+      "membershipTier": "Gold",
+      "joinDate": "2023-05-15",
+      "totalOrders": 27,
+      "totalSpent": 4567.23,
+      "averageOrderValue": 169.16,
+      "lastOrderDate": "2024-10-24",
+      "shippingAddress": {
+        "street": "258 Willow Way",
+        "city": "Denver",
+        "state": "CO",
+        "zipCode": "80201",
+        "country": "USA"
+      },
+      "billingAddress": {
+        "street": "258 Willow Way",
+        "city": "Denver",
+        "state": "CO",
+        "zipCode": "80201",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": true,
+        "smsNotifications": true,
+        "emailNotifications": true
+      },
+      "tags": [
+        "Fashion Forward",
+        "Frequent Buyer"
+      ],
+      "notes": "Loves new arrivals",
+      "avatar": "https://i.pravatar.cc/150?img=20"
+    },
+    {
+      "id": "9",
+      "firstName": "Christopher",
+      "lastName": "Lee",
+      "email": "chris.lee@email.com",
+      "phone": "+1-555-0109",
+      "dateOfBirth": "1991-06-11",
+      "gender": "Male",
+      "status": "Active",
+      "membershipTier": "Platinum",
+      "joinDate": "2022-07-22",
+      "totalOrders": 52,
+      "totalSpent": 9876.54,
+      "averageOrderValue": 189.93,
+      "lastOrderDate": "2024-10-26",
+      "shippingAddress": {
+        "street": "369 Spruce Avenue",
+        "city": "Portland",
+        "state": "OR",
+        "zipCode": "97201",
+        "country": "USA"
+      },
+      "billingAddress": {
+        "street": "369 Spruce Avenue",
+        "city": "Portland",
+        "state": "OR",
+        "zipCode": "97201",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": true,
+        "smsNotifications": true,
+        "emailNotifications": true
+      },
+      "tags": [
+        "VIP",
+        "Tech Enthusiast",
+        "Gaming"
+      ],
+      "notes": "Corporate account - bulk orders",
+      "avatar": "https://i.pravatar.cc/150?img=17"
+    },
+    {
+      "id": "10",
+      "firstName": "Jessica",
+      "lastName": "Brown",
+      "email": "jessica.b@email.com",
+      "phone": "+1-555-0110",
+      "dateOfBirth": "1989-02-19",
+      "gender": "Female",
+      "status": "Active",
+      "membershipTier": "Silver",
+      "joinDate": "2023-09-08",
+      "totalOrders": 14,
+      "totalSpent": 1654.32,
+      "averageOrderValue": 118.16,
+      "lastOrderDate": "2024-10-21",
+      "shippingAddress": {
+        "street": "741 Aspen Court",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zipCode": "85001",
+        "country": "USA"
+      },
+      "billingAddress": {
+        "street": "741 Aspen Court",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zipCode": "85001",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": true,
+        "smsNotifications": false,
+        "emailNotifications": true
+      },
+      "tags": [
+        "Yoga Enthusiast",
+        "Health Conscious"
+      ],
+      "notes": "Interested in wellness products",
+      "avatar": "https://i.pravatar.cc/150?img=24"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "orderNumber": "ORD-2024-001",
+      "customerId": 1,
+      "orderDate": "2024-10-20",
+      "status": "Delivered",
+      "paymentMethod": "Credit Card",
+      "paymentStatus": "Paid",
+      "subtotal": 259.98,
+      "tax": 20.8,
+      "shipping": 15,
+      "discount": 26,
+      "total": 269.78,
+      "items": [
+        {
+          "productId": 1,
+          "productName": "Wireless Bluetooth Headphones",
+          "quantity": 2,
+          "price": 129.99,
+          "total": 259.98
+        }
+      ],
+      "shippingAddress": {
+        "street": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10001",
+        "country": "USA"
+      },
+      "trackingNumber": "TRK1234567890",
+      "shippingMethod": "Express",
+      "estimatedDelivery": "2024-10-22",
+      "actualDelivery": "2024-10-21",
+      "notes": "Leave at door",
+      "couponCode": "SAVE10"
+    },
+    {
+      "id": "2",
+      "orderNumber": "ORD-2024-002",
+      "customerId": 2,
+      "orderDate": "2024-10-18",
+      "status": "Shipped",
+      "paymentMethod": "PayPal",
+      "paymentStatus": "Paid",
+      "subtotal": 89.99,
+      "tax": 7.2,
+      "shipping": 10,
+      "discount": 0,
+      "total": 107.19,
+      "items": [
+        {
+          "productId": 4,
+          "productName": "Leather Laptop Bag",
+          "quantity": 1,
+          "price": 89.99,
+          "total": 89.99
+        }
+      ],
+      "shippingAddress": {
+        "street": "456 Oak Avenue",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zipCode": "90001",
+        "country": "USA"
+      },
+      "trackingNumber": "TRK0987654321",
+      "shippingMethod": "Standard",
+      "estimatedDelivery": "2024-10-25",
+      "actualDelivery": null,
+      "notes": "",
+      "couponCode": null
+    },
+    {
+      "id": "3",
+      "orderNumber": "ORD-2024-003",
+      "customerId": 3,
+      "orderDate": "2024-10-25",
+      "status": "Processing",
+      "paymentMethod": "Credit Card",
+      "paymentStatus": "Paid",
+      "subtotal": 319.96,
+      "tax": 25.6,
+      "shipping": 0,
+      "discount": 32,
+      "total": 313.56,
+      "items": [
+        {
+          "productId": 2,
+          "productName": "Smart Fitness Watch",
+          "quantity": 1,
+          "price": 199.99,
+          "total": 199.99
+        },
+        {
+          "productId": 9,
+          "productName": "Wireless Gaming Mouse",
+          "quantity": 1,
+          "price": 69.99,
+          "total": 69.99
+        },
+        {
+          "productId": 6,
+          "productName": "Yoga Mat Premium",
+          "quantity": 1,
+          "price": 49.99,
+          "total": 49.99
+        }
+      ],
+      "shippingAddress": {
+        "street": "789 Pine Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zipCode": "60601",
+        "country": "USA"
+      },
+      "trackingNumber": null,
+      "shippingMethod": "Free Shipping",
+      "estimatedDelivery": "2024-10-30",
+      "actualDelivery": null,
+      "notes": "Gift wrap requested",
+      "couponCode": "PLATINUM10"
+    },
+    {
+      "id": "4",
+      "orderNumber": "ORD-2024-004",
+      "customerId": 4,
+      "orderDate": "2024-10-15",
+      "status": "Delivered",
+      "paymentMethod": "Debit Card",
+      "paymentStatus": "Paid",
+      "subtotal": 59.98,
+      "tax": 4.8,
+      "shipping": 10,
+      "discount": 0,
+      "total": 74.78,
+      "items": [
+        {
+          "productId": 3,
+          "productName": "Organic Cotton T-Shirt",
+          "quantity": 2,
+          "price": 29.99,
+          "total": 59.98
+        }
+      ],
+      "shippingAddress": {
+        "street": "321 Elm Road",
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": "73301",
+        "country": "USA"
+      },
+      "trackingNumber": "TRK5555666777",
+      "shippingMethod": "Standard",
+      "estimatedDelivery": "2024-10-20",
+      "actualDelivery": "2024-10-19",
+      "notes": "",
+      "couponCode": null
+    },
+    {
+      "id": "5",
+      "orderNumber": "ORD-2024-005",
+      "customerId": 5,
+      "orderDate": "2024-10-22",
+      "status": "Pending",
+      "paymentMethod": "Credit Card",
+      "paymentStatus": "Pending",
+      "subtotal": 84.98,
+      "tax": 6.8,
+      "shipping": 10,
+      "discount": 8.5,
+      "total": 93.28,
+      "items": [
+        {
+          "productId": 6,
+          "productName": "Yoga Mat Premium",
+          "quantity": 1,
+          "price": 49.99,
+          "total": 49.99
+        },
+        {
+          "productId": 7,
+          "productName": "Stainless Steel Water Bottle",
+          "quantity": 1,
+          "price": 34.99,
+          "total": 34.99
+        }
+      ],
+      "shippingAddress": {
+        "street": "654 Maple Drive",
+        "city": "Seattle",
+        "state": "WA",
+        "zipCode": "98101",
+        "country": "USA"
+      },
+      "trackingNumber": null,
+      "shippingMethod": "Standard",
+      "estimatedDelivery": "2024-10-28",
+      "actualDelivery": null,
+      "notes": "Call before delivery",
+      "couponCode": "GOLD10"
+    },
+    {
+      "id": "6",
+      "orderNumber": "ORD-2024-006",
+      "customerId": 6,
+      "orderDate": "2024-10-19",
+      "status": "Delivered",
+      "paymentMethod": "PayPal",
+      "paymentStatus": "Paid",
+      "subtotal": 82.98,
+      "tax": 6.64,
+      "shipping": 10,
+      "discount": 0,
+      "total": 99.62,
+      "items": [
+        {
+          "productId": 5,
+          "productName": "Ceramic Coffee Mug Set",
+          "quantity": 1,
+          "price": 39.99,
+          "total": 39.99
+        },
+        {
+          "productId": 10,
+          "productName": "Bamboo Cutting Board Set",
+          "quantity": 1,
+          "price": 42.99,
+          "total": 42.99
+        }
+      ],
+      "shippingAddress": {
+        "street": "987 Cedar Lane",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02101",
+        "country": "USA"
+      },
+      "trackingNumber": "TRK9998887776",
+      "shippingMethod": "Standard",
+      "estimatedDelivery": "2024-10-24",
+      "actualDelivery": "2024-10-23",
+      "notes": "",
+      "couponCode": null
+    },
+    {
+      "id": "7",
+      "orderNumber": "ORD-2024-007",
+      "customerId": 8,
+      "orderDate": "2024-10-24",
+      "status": "Shipped",
+      "paymentMethod": "Credit Card",
+      "paymentStatus": "Paid",
+      "subtotal": 159.97,
+      "tax": 12.8,
+      "shipping": 0,
+      "discount": 16,
+      "total": 156.77,
+      "items": [
+        {
+          "productId": 3,
+          "productName": "Organic Cotton T-Shirt",
+          "quantity": 3,
+          "price": 29.99,
+          "total": 89.97
+        },
+        {
+          "productId": 9,
+          "productName": "Wireless Gaming Mouse",
+          "quantity": 1,
+          "price": 69.99,
+          "total": 69.99
+        }
+      ],
+      "shippingAddress": {
+        "street": "258 Willow Way",
+        "city": "Denver",
+        "state": "CO",
+        "zipCode": "80201",
+        "country": "USA"
+      },
+      "trackingNumber": "TRK3334445556",
+      "shippingMethod": "Free Shipping",
+      "estimatedDelivery": "2024-10-29",
+      "actualDelivery": null,
+      "notes": "",
+      "couponCode": "GOLD10"
+    },
+    {
+      "id": "8",
+      "orderNumber": "ORD-2024-008",
+      "customerId": 9,
+      "orderDate": "2024-10-26",
+      "status": "Processing",
+      "paymentMethod": "Credit Card",
+      "paymentStatus": "Paid",
+      "subtotal": 395.94,
+      "tax": 31.68,
+      "shipping": 0,
+      "discount": 39.59,
+      "total": 388.03,
+      "items": [
+        {
+          "productId": 1,
+          "productName": "Wireless Bluetooth Headphones",
+          "quantity": 2,
+          "price": 129.99,
+          "total": 259.98
+        },
+        {
+          "productId": 9,
+          "productName": "Wireless Gaming Mouse",
+          "quantity": 2,
+          "price": 69.99,
+          "total": 139.98
+        }
+      ],
+      "shippingAddress": {
+        "street": "369 Spruce Avenue",
+        "city": "Portland",
+        "state": "OR",
+        "zipCode": "97201",
+        "country": "USA"
+      },
+      "trackingNumber": null,
+      "shippingMethod": "Free Shipping",
+      "estimatedDelivery": "2024-10-31",
+      "actualDelivery": null,
+      "notes": "Corporate purchase order #CP-2024-456",
+      "couponCode": "PLATINUM10"
+    },
+    {
+      "id": "9",
+      "orderNumber": "ORD-2024-009",
+      "customerId": 10,
+      "orderDate": "2024-10-21",
+      "status": "Delivered",
+      "paymentMethod": "Debit Card",
+      "paymentStatus": "Paid",
+      "subtotal": 95.97,
+      "tax": 7.68,
+      "shipping": 10,
+      "discount": 0,
+      "total": 113.65,
+      "items": [
+        {
+          "productId": 6,
+          "productName": "Yoga Mat Premium",
+          "quantity": 1,
+          "price": 49.99,
+          "total": 49.99
+        },
+        {
+          "productId": 8,
+          "productName": "LED Desk Lamp",
+          "quantity": 1,
+          "price": 45.99,
+          "total": 45.99
+        }
+      ],
+      "shippingAddress": {
+        "street": "741 Aspen Court",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zipCode": "85001",
+        "country": "USA"
+      },
+      "trackingNumber": "TRK7778889990",
+      "shippingMethod": "Standard",
+      "estimatedDelivery": "2024-10-26",
+      "actualDelivery": "2024-10-25",
+      "notes": "",
+      "couponCode": null
+    },
+    {
+      "id": "10",
+      "orderNumber": "ORD-2024-010",
+      "customerId": 1,
+      "orderDate": "2024-10-23",
+      "status": "Cancelled",
+      "paymentMethod": "Credit Card",
+      "paymentStatus": "Refunded",
+      "subtotal": 199.99,
+      "tax": 16,
+      "shipping": 0,
+      "discount": 20,
+      "total": 195.99,
+      "items": [
+        {
+          "productId": 2,
+          "productName": "Smart Fitness Watch",
+          "quantity": 1,
+          "price": 199.99,
+          "total": 199.99
+        }
+      ],
+      "shippingAddress": {
+        "street": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10001",
+        "country": "USA"
+      },
+      "trackingNumber": null,
+      "shippingMethod": "Free Shipping",
+      "estimatedDelivery": null,
+      "actualDelivery": null,
+      "notes": "Customer requested cancellation",
+      "couponCode": "GOLD10"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Electronics",
+      "slug": "electronics",
+      "description": "Latest electronic gadgets and devices",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=400",
+      "parentId": null,
+      "level": 0,
+      "productCount": 3,
+      "status": "Active",
+      "featured": true,
+      "displayOrder": 1,
+      "seoTitle": "Electronics - Latest Gadgets & Devices",
+      "seoDescription": "Shop the latest electronics including headphones, smartwatches, and gaming accessories",
+      "seoKeywords": "electronics, gadgets, devices, smart devices"
+    },
+    {
+      "id": "2",
+      "name": "Fashion & Apparel",
+      "slug": "fashion-apparel",
+      "description": "Trendy clothing and fashion accessories",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400",
+      "parentId": null,
+      "level": 0,
+      "productCount": 2,
+      "status": "Active",
+      "featured": true,
+      "displayOrder": 2,
+      "seoTitle": "Fashion & Apparel - Clothing & Accessories",
+      "seoDescription": "Discover the latest trends in fashion, clothing, and accessories",
+      "seoKeywords": "fashion, clothing, apparel, accessories, style"
+    },
+    {
+      "id": "3",
+      "name": "Home & Kitchen",
+      "slug": "home-kitchen",
+      "description": "Everything for your home and kitchen needs",
+      "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=400",
+      "parentId": null,
+      "level": 0,
+      "productCount": 4,
+      "status": "Active",
+      "featured": true,
+      "displayOrder": 3,
+      "seoTitle": "Home & Kitchen - Essentials for Your Home",
+      "seoDescription": "Quality home and kitchen products including cookware, decor, and lighting",
+      "seoKeywords": "home, kitchen, cookware, home decor, essentials"
+    },
+    {
+      "id": "4",
+      "name": "Sports & Fitness",
+      "slug": "sports-fitness",
+      "description": "Gear up for your fitness journey",
+      "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400",
+      "parentId": null,
+      "level": 0,
+      "productCount": 2,
+      "status": "Active",
+      "featured": true,
+      "displayOrder": 4,
+      "seoTitle": "Sports & Fitness - Workout Gear & Equipment",
+      "seoDescription": "Find the best sports and fitness equipment for your workout routine",
+      "seoKeywords": "sports, fitness, workout, exercise, gym equipment"
+    },
+    {
+      "id": "5",
+      "name": "Books & Media",
+      "slug": "books-media",
+      "description": "Books, magazines, and digital media",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400",
+      "parentId": null,
+      "level": 0,
+      "productCount": 0,
+      "status": "Active",
+      "featured": false,
+      "displayOrder": 5,
+      "seoTitle": "Books & Media - Reading & Entertainment",
+      "seoDescription": "Browse our collection of books, magazines, and digital media",
+      "seoKeywords": "books, media, reading, magazines, entertainment"
+    },
+    {
+      "id": "1761983947415",
+      "name": "Tools",
+      "displayOrder": 6,
+      "description": "These contains handy tools whic can be used to do the house works",
+      "productCount": 0,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=400",
+      "parentId": null,
+      "level": 0,
+      "seoTitle": "Tools",
+      "seoDescription": "These contains handy tools which can be used to do the house works",
+      "seoKeywords": ""
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "productId": 1,
+      "customerId": 1,
+      "rating": 5,
+      "title": "Excellent sound quality!",
+      "comment": "These headphones are amazing! The noise cancellation is superb and the battery life is even better than advertised. Highly recommend!",
+      "verified": true,
+      "helpful": 45,
+      "notHelpful": 2,
+      "status": "Approved",
+      "reviewDate": "2024-10-15",
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200"
+      ]
+    },
+    {
+      "id": "2",
+      "productId": 1,
+      "customerId": 3,
+      "rating": 4,
+      "title": "Great, but a bit pricey",
+      "comment": "Love the sound and comfort, but I think it's slightly overpriced for what you get. Still a solid purchase though.",
+      "verified": true,
+      "helpful": 23,
+      "notHelpful": 5,
+      "status": "Approved",
+      "reviewDate": "2024-10-10",
+      "images": []
+    },
+    {
+      "id": "3",
+      "productId": 2,
+      "customerId": 5,
+      "rating": 5,
+      "title": "Perfect fitness companion",
+      "comment": "This watch has everything I need for tracking my workouts. The GPS is accurate and the heart rate monitor is reliable. Battery lasts a full week!",
+      "verified": true,
+      "helpful": 67,
+      "notHelpful": 1,
+      "status": "Approved",
+      "reviewDate": "2024-10-12",
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200",
+        "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=200"
+      ]
+    },
+    {
+      "id": "4",
+      "productId": 2,
+      "customerId": 9,
+      "rating": 4,
+      "title": "Good but not perfect",
+      "comment": "The watch is great overall, but the app could use some improvements. Syncing sometimes takes longer than expected.",
+      "verified": true,
+      "helpful": 34,
+      "notHelpful": 8,
+      "status": "Approved",
+      "reviewDate": "2024-10-08",
+      "images": []
+    },
+    {
+      "id": "5",
+      "productId": 3,
+      "customerId": 4,
+      "rating": 5,
+      "title": "Super comfortable and eco-friendly!",
+      "comment": "Love that it's made from organic cotton. The fit is perfect and it's incredibly soft. Will definitely buy more colors!",
+      "verified": true,
+      "helpful": 28,
+      "notHelpful": 0,
+      "status": "Approved",
+      "reviewDate": "2024-10-05",
+      "images": []
+    },
+    {
+      "id": "6",
+      "productId": 4,
+      "customerId": 2,
+      "rating": 5,
+      "title": "Professional and stylish",
+      "comment": "This bag looks amazing and has plenty of room for my laptop and documents. The leather quality is top-notch!",
+      "verified": true,
+      "helpful": 52,
+      "notHelpful": 3,
+      "status": "Approved",
+      "reviewDate": "2024-10-14",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200"
+      ]
+    },
+    {
+      "id": "7",
+      "productId": 6,
+      "customerId": 5,
+      "rating": 5,
+      "title": "Best yoga mat I've owned",
+      "comment": "The thickness is perfect for cushioning, and it doesn't slip at all. Great for both yoga and pilates!",
+      "verified": true,
+      "helpful": 89,
+      "notHelpful": 2,
+      "status": "Approved",
+      "reviewDate": "2024-10-18",
+      "images": []
+    },
+    {
+      "id": "8",
+      "productId": 6,
+      "customerId": 10,
+      "rating": 4,
+      "title": "Very good quality",
+      "comment": "Excellent mat, but the carrying strap could be more durable. Otherwise, it's perfect for my daily yoga routine.",
+      "verified": true,
+      "helpful": 41,
+      "notHelpful": 4,
+      "status": "Approved",
+      "reviewDate": "2024-10-16",
+      "images": []
+    },
+    {
+      "id": "9",
+      "productId": 7,
+      "customerId": 5,
+      "rating": 5,
+      "title": "Keeps drinks cold all day",
+      "comment": "I put ice water in this bottle in the morning and it still has ice by evening! Amazing insulation.",
+      "verified": true,
+      "helpful": 76,
+      "notHelpful": 1,
+      "status": "Approved",
+      "reviewDate": "2024-10-11",
+      "images": []
+    },
+    {
+      "id": "10",
+      "productId": 9,
+      "customerId": 9,
+      "rating": 5,
+      "title": "Gaming mouse perfection",
+      "comment": "This mouse is incredible for gaming. The DPI settings are perfect and the RGB lighting is beautiful. Worth every penny!",
+      "verified": true,
+      "helpful": 134,
+      "notHelpful": 5,
+      "status": "Approved",
+      "reviewDate": "2024-10-20",
+      "images": [
+        "https://images.unsplash.com/photo-1527814050087-3793815479db?w=200"
+      ]
+    },
+    {
+      "id": "11",
+      "productId": 9,
+      "customerId": 3,
+      "rating": 4,
+      "title": "Great mouse, minor issues",
+      "comment": "Love the performance, but the software for customizing buttons can be buggy sometimes. Hardware is excellent though.",
+      "verified": true,
+      "helpful": 45,
+      "notHelpful": 7,
+      "status": "Approved",
+      "reviewDate": "2024-10-17",
+      "images": []
+    },
+    {
+      "id": "12",
+      "productId": 5,
+      "customerId": 6,
+      "rating": 5,
+      "title": "Beautiful mug set",
+      "comment": "These mugs are elegant and the perfect size for my morning coffee. Great gift idea too!",
+      "verified": true,
+      "helpful": 38,
+      "notHelpful": 1,
+      "status": "Approved",
+      "reviewDate": "2024-10-13",
+      "images": []
+    },
+    {
+      "id": "13",
+      "productId": 10,
+      "customerId": 6,
+      "rating": 5,
+      "title": "Eco-friendly and practical",
+      "comment": "Love the different sizes and the bamboo is high quality. Much better than plastic cutting boards!",
+      "verified": true,
+      "helpful": 56,
+      "notHelpful": 2,
+      "status": "Approved",
+      "reviewDate": "2024-10-09",
+      "images": []
+    },
+    {
+      "id": "14",
+      "productId": 8,
+      "customerId": 10,
+      "rating": 4,
+      "title": "Good lamp for the price",
+      "comment": "The adjustable brightness is nice and the USB port is convenient. Only wish it was a bit brighter on the highest setting.",
+      "verified": true,
+      "helpful": 29,
+      "notHelpful": 3,
+      "status": "Approved",
+      "reviewDate": "2024-10-19",
+      "images": []
+    },
+    {
+      "id": "15",
+      "productId": 1,
+      "customerId": 8,
+      "rating": 3,
+      "title": "Decent but not amazing",
+      "comment": "The headphones work well but I expected better sound quality for the price. Noise cancellation is good though.",
+      "verified": true,
+      "helpful": 12,
+      "notHelpful": 18,
+      "status": "Approved",
+      "reviewDate": "2024-10-07",
+      "images": []
+    }
+  ]
+}
